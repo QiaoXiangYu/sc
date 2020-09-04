@@ -1,0 +1,35 @@
+[33mcommit 2eed3166c6eff0cfaf9b194c4e8a86daa16ea102[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Fri Sep 4 15:35:27 2020 +0800
+
+    打包学成网成品
+
+[33mcommit 47bd7b071c77c603a11c69f3ac8438082f220ac2[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Fri Sep 4 09:54:32 2020 +0800
+
+    整体开发环境
+
+[33mcommit 07d19261a4211c1159b7a209c81ecc4b099bd440[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Thu Sep 3 16:15:26 2020 +0800
+
+    自动化构建打包
+
+[33mcommit d61f308b3a4ffadf7aa5165651723f97685c28b5[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Thu Sep 3 15:18:12 2020 +0800
+
+    打包图片资源
+
+[33mcommit d81c8f96389dd484e07f837cd7bb4c1f4f380c3d[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Wed Sep 2 22:40:50 2020 +0800
+
+    打包html文件
+
+[33mcommit 2075d9f3bf3178b9a711b9b14fd7733f7bf62428[m
+Author: QiaoXiangYu <1163923622@qq.com>
+Date:   Wed Sep 2 22:12:05 2020 +0800
+
+    打包样式文件
